@@ -15,8 +15,4 @@ target 'Transformer' do
     # Pods for testing
   end
 
-  target 'TransformerUITests' do
-    # Pods for testing
-  end
-
 end
